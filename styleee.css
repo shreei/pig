@@ -1,0 +1,98 @@
+.face{
+    height: 280px;
+    width: 280px;
+    background: #fcbacc;
+    border-radius: 50%;
+    margin-top: 90px;
+    margin-left: 450px;
+    border: 1px solid ;
+}
+.eyes{
+    position: absolute;
+    margin-top: 50px;
+
+}
+.eye1{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    background: white;
+    border-radius: 50%;
+    margin-left: 45px;
+}
+.eye2{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    background: white;
+    border-radius: 50%;
+    margin-left: 175px;
+}
+.e1{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background: black;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.e2{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background: black;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.nose{
+    height: 70px;
+    width: 130px;
+    background: red;
+    position: absolute;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 145px;
+    margin-left: 75px;
+    border: 1px solid;
+}
+.n1{
+    height: 35px;
+    width: 35px;
+    background: black;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.n2{
+    height: 35px;
+    width: 35px;
+    background: black;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 18px;
+    margin-left: 83px;
+}
+.ear1{
+    height: 200px;
+    width: 80px;
+    position: absolute;
+    background-color:  #ffa0ba ;
+    z-index: -1;
+    border-radius: 50px;
+    margin-left: 21px; 
+    margin-top: -8px; 
+    border: 1px solid;
+}
+.ear2{
+    height: 200px;
+    width: 80px;
+    position: absolute;
+    background-color: #ffa0ba;
+    z-index: -1;
+    border-radius: 50px;
+    margin-left: 181px;
+    margin-top: -8px;  
+    border: 1px solid;
+}
